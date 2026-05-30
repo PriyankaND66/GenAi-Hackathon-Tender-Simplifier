@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Secrets and Environment Variables
+.env
+*.env
+secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit local configurations
+.streamlit/
+
+# Large Data files / downloaded PDFs
+data/
+*.pdf
